@@ -1,2 +1,2 @@
-DESKTOP-IdSOOL\User
-лол)
+DESKTOP-I5RSOOL\User
+ваня какой нибудь)
