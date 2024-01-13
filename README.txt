@@ -1,2 +1,2 @@
-DESKTOP-I5RSOOL\User
+DESKTOP-IdSOOL\User
 лол)
