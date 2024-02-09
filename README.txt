@@ -1,9 +1,9 @@
 God
 DESKTOP-I5RSOOL\User
 
-Александр Чиркин
+Глава по фермам
 DESKTOP-579T290\RobotComp.ru
-Александр Чиркин
+Глава по фермам
 DESKTOP-TMM4SQE\serge
 
 Пупсик
