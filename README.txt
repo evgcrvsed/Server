@@ -5,3 +5,6 @@ DESKTOP-I5RSOOL\User
 DESKTOP-579T290\RobotComp.ru
 Александр Чиркин
 DESKTOP-TMM4SQE\serge
+
+Пупсик
+DESKTOP-CRQM7E2\Киселёчек
