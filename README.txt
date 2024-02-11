@@ -1,5 +1,5 @@
 God
-DES
+DESKTOP-I5RSOOL\User
 
 Глава по фермам
 DESKTOP-579T290\RobotComp.ru
