@@ -1,5 +1,5 @@
 God
-DESKTOP-I5RSOOL\User
+DESKTOP-BVNMIBP\lakom
 
 Глава по фермам
 DESKTOP-579T290\RobotComp.ru
