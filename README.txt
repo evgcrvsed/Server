@@ -7,4 +7,4 @@ DESKTOP-579T290\RobotComp.ru
 DESKTOP-TMM4SQE\serge
 
 Пупсик
-DESKTOP-CRQM7E2\Киселёчек
+DESKTOP-DFH322I\tabit
