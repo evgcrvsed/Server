@@ -10,3 +10,6 @@ GIGABYTE\dimac
 
 Пупсик
 DESKTOP-DFH322I\tabit
+
+Flexozavr
+WIN-OKTOIO5KQ3U\user
