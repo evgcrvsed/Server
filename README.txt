@@ -16,3 +16,6 @@ WIN-OKTOIO5KQ3U\user
 
 usof
 DAGAHANPC\dagah
+
+Ванёчек
+DESKTOP-0PB68PM\psycho
