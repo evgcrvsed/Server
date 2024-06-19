@@ -19,3 +19,6 @@ DAGAHANPC\dagah
 
 Ванёчек
 DESKTOP-0PB68PM\psycho
+
+Ванёчек
+DESKTOP-43D46CK\LOVKEY
