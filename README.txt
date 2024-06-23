@@ -16,6 +16,8 @@ WIN-OKTOIO5KQ3U\user
 
 usof
 DAGAHANPC\dagah
+usof
+DAGAHANNOTEBOOK\nikit
 
 Ванёчек
 DESKTOP-0PB68PM\psycho
