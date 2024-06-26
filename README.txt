@@ -8,9 +8,6 @@ DESKTOP-TMM4SQE\serge
 Глава по фермам (с ноута)
 GIGABYTE\dimac
 
-Пупсик
-DESKTOP-DFH322I\tabit
-
 Fleksozavr
 WIN-OKTOIO5KQ3U\user
 
@@ -25,3 +22,6 @@ DESKTOP-0PB68PM\psycho
 DESKTOP-43D46CK\LOVKEY
 Ванёчек
 DESKTOP-7PSE53P\pq
+
+xd
+DESKTOP-BQMTOLN\gogo
