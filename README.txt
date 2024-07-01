@@ -25,3 +25,6 @@ DESKTOP-7PSE53P\pq
 
 llv21
 DESKTOP-BQMTOLN\gogo
+
+summer
+DESKTOP-KCL08UV\Илья
