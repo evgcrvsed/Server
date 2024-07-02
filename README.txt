@@ -28,3 +28,6 @@ DESKTOP-BQMTOLN\gogo
 
 summer
 DESKTOP-KCL08UV\Илья
+
+bambastics
+HOME-PC\bambastics
