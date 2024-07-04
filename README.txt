@@ -31,3 +31,6 @@ DESKTOP-KCL08UV\Илья
 
 bambastics
 HOME-PC\bambastics
+
+uzer
+UZER\123
